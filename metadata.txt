@@ -1,0 +1,14 @@
+[general]
+name=JapanMesh
+description=Create a mesh layer(Latitudes range from 20 to 46,Longitudes range from 122 to 154)
+category=Vector
+version=0.0.2
+qgisMinimumVersion=2.4
+author=Digital Energy
+email=gis@energy.co.jp
+tags=mesh,polygon
+homepage=https://github.com/digitalenergy/JapanMesh
+tracker=https://github.com/digitalenergy/JapanMesh
+repository=https://github.com/digitalenergy/JapanMesh
+icon:icons/icon.png
+class_name=JapanMesh
