@@ -52,7 +52,7 @@ class JapanMesh:
         self.mesh_types = 8
 
         #選択フィーチャー数の制限
-        self.limit = 40000
+        self.limit = 2000
 
         QObject.connect(self.canvas,SIGNAL("layersChanged()"),self.layersChange)
 
