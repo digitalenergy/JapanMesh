@@ -1,4 +1,5 @@
 JapanMesh
+Create a mesh layer with mesh code of japan.
 (Latitudes range from 20 to 46)
 (Longitudes range from 122 to 154)
 (Language:Japanese version only)
