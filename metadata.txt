@@ -1,6 +1,6 @@
 [general]
 name=JapanMesh
-description=Create a mesh layer(Latitudes range from 20 to 46,Longitudes range from 122 to 154)
+description=Create a mesh layer with mesh code of japan(Latitudes range from 20 to 46,Longitudes range from 122 to 154)
 category=Vector
 version=0.0.2
 qgisMinimumVersion=2.4
